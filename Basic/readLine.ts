@@ -9,5 +9,13 @@ const miniMaxSum = (arr: number[]) => {
   console.log(`${minSum} ${maxSum}`);
 };
 
-const arr1 = [1, 3, 5, 7, 9];
+const arr1 = [1, 3, 5, 7, 2];
 miniMaxSum(arr1);
+
+
+
+
+
+
+
+
