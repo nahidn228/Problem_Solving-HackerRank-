@@ -26,5 +26,5 @@ const plusMinus = (arr: number[]): any => {
   console.log({ positiveRatio, negativeRatio, zeroRatio });
 };
 
-const arr = [1, 1, 0, -1, -1];
+const arr = [1, 1, 0, -1, -3];
 plusMinus(arr);
